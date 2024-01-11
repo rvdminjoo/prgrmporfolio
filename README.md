@@ -7,7 +7,7 @@ Code I used for a team research project conducted at SNU Consumer Academic Club,
 
 
 ## week2-8
-Code I used in study group sessions at Korean Psychological Associaion of Universities.
+Code I used in study group sessions at Korean Psychological Association of Universities.
 
 We focused on wep scraping using XPath, text mining, and visualizing data in R.
 
